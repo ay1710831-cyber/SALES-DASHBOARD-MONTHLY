@@ -9,6 +9,7 @@ EXCEL & POWER BI DASHBOARD PROJECT
 <img width="907" height="508" alt="Screenshot 2026-03-10 140052" src="https://github.com/user-attachments/assets/58d6e113-1834-4ae6-8449-eaf30f03f3d7" />
 <img width="759" height="431" alt="Screenshot 2026-03-10 140319" src="https://github.com/user-attachments/assets/132df32b-149a-4163-a4d0-30da1a5d2c9c" />
 <img width="762" height="508" alt="Screenshot 2026-03-11 120653" src="https://github.com/user-attachments/assets/c8f31892-9822-400d-af70-5d7eecd099b1" />
+<img width="894" height="507" alt="Screenshot 2026-03-12 133724" src="https://github.com/user-attachments/assets/4f4742f6-4c86-4a4f-a948-ce3840fc1eca" />
 
 
 
